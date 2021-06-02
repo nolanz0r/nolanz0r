@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ilya
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning typescript, react, redux 
 - 📫 How to reach me: 
   - email: nolanz0r@yandex.ru
