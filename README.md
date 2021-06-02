@@ -1,6 +1,8 @@
 ### Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-## Меня зовут Илья - я Frontend-разработчик JavaScript/TypeScript   
+### Меня зовут Илья - я Frontend-разработчик JavaScript/TypeScript   
 
+#### Мои контакты
+- Email: nolanz0r@yandex.ru
 
 ![CodeWars](https://www.codewars.com/users/Nolan666/badges/large)
 
@@ -16,4 +18,5 @@
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![PassportJS](https://img.shields.io/badge/-Passport.js-000000?logo=passportjs&style=for-the-badge)](http://www.passportjs.org/)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
+[![Heroku](https://img.shields.io/badge/-Firebase-039be5?logo=firebase&style=for-the-badge)](https://firebase.google.com/)
 
