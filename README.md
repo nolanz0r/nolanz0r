@@ -1,8 +1,8 @@
 ### Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-## Меня зовут Илья - я Frontend-разработчик JavaScript/TypeScript
-  <a href="">
+## Меня зовут Илья - я Frontend-разработчик JavaScript/TypeScript   <a href="">
     <img align="left" alt="Danila Nagornyi | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
   </a>
+
 
 <br />
 
