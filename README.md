@@ -1,15 +1,10 @@
 ### Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 ## Меня зовут Илья - я Frontend-разработчик JavaScript/TypeScript   
-<a href="">
-    <img align="left" alt="Danila Nagornyi | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
-</a>
 
-
-<br />
 
 ![CodeWars](https://www.codewars.com/users/Nolan666/badges/large)
 
-### Стэк технологий который я использовал
+### Стэк технологий который я использую
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
