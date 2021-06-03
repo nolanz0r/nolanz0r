@@ -1,5 +1,6 @@
 ### Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-### Меня зовут Илья - я Frontend-разработчик JavaScript/TypeScript   
+### Меня зовут Илья - я Frontend-разработчик JavaScript/TypeScript
+#### Ответственный и мотивированный Frontend разработчик с опытом создания SPA приложений. В основном использую стек  React, Redux, Nodejs, Express, MongoDB и TypeScript. 
 
 ### Стэк технологий который я использую
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
